@@ -5,7 +5,7 @@ Do not use these bots for financial advice. They are machine learning and artifi
 This project is a collection of Machine learning, web-scraping and artificial intelligence programs directed at analyzing stock data, making predictions and gathering information about the stock market and specific stocks. 
 
 __Clustering.py:__\
-This program is used to obtain years worth of opening and closing values for dow 30 companies. SKlearn was then used to create a normalizer and clustering model using k-mean clustering to open a pipeline on a normalizer, and after clustering and data normalization, opening and closing values are predicted.
+This program is used to obtain years worth of opening and closing values for dow 30 companies. SKlearn was then used to create a normalizer and clustering model using k-mean clustering to open a pipeline on a normalizer, and after clustering and data normalization, opening and closing values are predicted. \
 __Price_Prediction.py:__\
   This program takes in 5-10 years worth of data from a singular stock and then trains a Machine Learning model to attempt to model how accurate the Machine Learning bot would have been over this time period.
 __Stock_Screener.py:__\
